@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Maaprang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Wattanachai Santiapiboon
+- 👀 I’m interested in pyrhon and image processing
+- 🌱 I’m currently learning C# with dotnet core mvc 
+- 💞️ 
+- 📫
 
 <!---
 Maaprang/Maaprang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
