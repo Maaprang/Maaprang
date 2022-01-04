@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wattanachai Santiapiboon
 - 👀 I’m interested in pyrhon and image processing
 - 🌱 I’m currently learning C# with dotnet core mvc 
-- 💞️ 
+- 💞️ Nice to meet U too
 - 📫
 
 <!---
